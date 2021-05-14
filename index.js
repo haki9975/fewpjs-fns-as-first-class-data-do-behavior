@@ -9,5 +9,18 @@ function handleClick(e) {
 
 /* End Given Code, don't edit above here...*/
 
-/* Write your implementation of greet() */
+// funciton greet() {
+//   if ( time < 12 ) {
+//     return "Good Morning"
+//   }
+//   if (time > 12, time < 5) {
+//     return "Good Afternoon"
+//   }
+//   if (time > 5 ) {
+//     return "Good Evening"
+//   }
+// }
+
+
+
 /* Write your implementation of displayMessage() */
